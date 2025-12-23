@@ -11,7 +11,7 @@ Performance comparison of sorting algorithms in RISC-V assembly vs Verilog hardw
 - **Key Achievement**: 75-121x speedup through hardware acceleration
 - **Highlights**: State machine design, FSM implementation, performance benchmarking
 
-### Personalized Keycard Access Simulator
+### [Personalized Keycard Access Simulator]
 Role-based access control system simulating secure authentication for medical facilities
 - **Tech Stack**: Python, tkinter, pandas, openpyxl
 - **Key Achievement**: Format validation & role-based authentication, personalized dashboards with visual tool configurations, persistent data storage with Excel integration, comprehensive audit trails & login history
@@ -25,4 +25,4 @@ Role-based access control system simulating secure authentication for medical fa
 
 ## 📫 Contact
 - Email: satoe@purdue.edu
-- LinkedIn: linkedin.com/in/elliottsato
+- LinkedIn: [linkedin.com/in/elliottsato]
