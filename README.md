@@ -25,4 +25,4 @@ Role-based access control system simulating secure authentication for medical fa
 
 ## 📫 Contact
 - Email: satoe@purdue.edu
-- LinkedIn: [linkedin.com/in/elliottsato]
+- LinkedIn: linkedin.com/in/elliottsato
