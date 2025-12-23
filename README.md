@@ -18,10 +18,10 @@ Role-based access control system simulating secure authentication for medical fa
 - **Highlights**: Data validation, GUI design, security-focused architecture
 
 ## Skills
-**Hardware**: Verilog, SystemVerilog, FPGA, Digital Design
-**Software**: Python, C++, RISC-V Assembly, GUI Development (tkinter)
-**Data**: pandas, Excel integration, database management
-**Tools**: Verilator, RARS, Git, Vivado
+- **Hardware**: Verilog, SystemVerilog, FPGA, Digital Design
+- **Software**: Python, C++, RISC-V Assembly, GUI Development (tkinter)
+- **Data**: pandas, Excel integration, database management
+- **Tools**: Verilator, RARS, Git, Vivado
 
 ## 📫 Contact
 - Email: satoe@purdue.edu
