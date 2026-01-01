@@ -28,6 +28,9 @@ Role-based access control system simulating secure authentication for medical fa
 - **Software**: TypeScript, React, Next.js, C++, Python, RISC-V Assembly, Tailwind CSS
 - **Data & Tools**: Git, pandas, Excel integration, Verilator, RARS, Vivado
 
+## Outside the Code 🎵🏒
+When I’m not building software or hardware, I play club ice hockey 🏒. I’m also a classically trained cellist 🎻.
+
 ## 📫 Contact
 - Email: satoe@purdue.edu
 - LinkedIn: linkedin.com/in/elliottsato
