@@ -1,4 +1,4 @@
-# Hi, I'm Elliott 👋
+# Hi, I'm Elliott 👋😈
 
 ## About Me
 Electrical Engineering student at Purdue specializing in hardware-software co-design and digital systems.
