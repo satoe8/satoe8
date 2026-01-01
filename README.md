@@ -11,6 +11,12 @@ Duolingo-style poker training application with a real-time AI logic engine
 - **Key Achievement**: Engineered a local AI logic engine that provides real-time strategic analysis and dynamic raise sizing based on pot odds and hand strength.
 - **Highlights**: Implemented a gamified life system (Hearts) and XP progression to enhance user (me) engagement, developed custom Regex-based Markdown parsing for high-fidelity UI text formatting, designed a responsive "Poker Table" UI with animated feedback overlays.
 
+### [Multiplayer Beaver Habit Tracker] (https://github.com/satoe8/beaver-habit-tracker)
+Full-stack data-integrity platform for collaborative habit tracking and real-time synchronization
+- **Tech Stack**: TypeScript, Next.js, Supabase, Tailwind CSS, PostgreSQL
+- **Key Achievement**: Developed collaborative data-integrity platforms with real-time synchronization, managing state-driven interactions across concurrent user sessions
+- **Highlights**: Implemented permission-based security protocols via Row-Level Security (RLS) for data isolation, engineered gamified mechanics (virtual pet evolution) to reinforce engagement and retention metrics, and built reusable, accessible UI components optimized for mobile and experimental feature testing
+
 ### [Hardware-Accelerated Sorting] (https://github.com/satoe8/hardware-accelerated-sorting)
 Performance comparison of sorting algorithms in RISC-V assembly vs Verilog hardware accelerators
 - **Tech Stack**: RISC-V Assembly, Verilog, Verilator, C++
