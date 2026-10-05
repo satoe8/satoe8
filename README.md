@@ -11,7 +11,7 @@ Reusable, self-checking Universal Verification Methodology (UVM 1.2) environment
 - **Key Achievement**: Achieved 100% functional coverage and complete verification closure through a constrained-random test plan and custom covergroups.
 - **Highlights**: Engineered a complete UVM testbench featuring master/slave agents and a passive monitor, implemented a TLM-connected scoreboard utilizing a golden register-file reference model for error prediction, and authored 12 concurrent SystemVerilog Assertions (SVA) for strict protocol compliance.
 
-### [ASTRA Satellite Telemetry Architecture]((https://github.com/Purdue-SoCET/intro2_S2026_Telemetry_tt)
+### [ASTRA Satellite Telemetry Architecture](https://github.com/Purdue-SoCET/intro2_S2026_Telemetry_tt)
 CCSDS-compliant telemetry packetizer designed for the System-on-Chip Extension Technologies (SoCET VIP) Telemetry Chip project
 - **Tech Stack**: SystemVerilog, Artix-7 FPGA, Vivado
 - **Key Achievement**: Served as Lead RTL Designer, successfully developing and verifying a hardware telemetry architecture on physical FPGA fabric.
