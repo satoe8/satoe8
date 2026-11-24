@@ -4,6 +4,8 @@ Electrical Engineering @ Purdue University ('28). I build digital chips, avionic
 
 ## Featured Work
 
+https://coremux.dev/
+
 ### CoreMux SDK — Hardware-Accelerated Video Transport
 Windows-to-iOS low-latency display extension and video transport SDK (`CoreMuxHost.dll` + `CoreMuxClient`)
 - **Stack:** C++20, Windows IddCx (UMDF 2.x), Direct3D 11 / DXGI, NVIDIA NVENC, Swift, Metal, Core ML
